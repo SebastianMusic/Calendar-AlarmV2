@@ -1,0 +1,8 @@
+.Sensetive_files/
+credentials.json
+token.json
+CalendarID.txt
+.venv
+.DS_Store
+.buildozer
+.buildozer.spec
